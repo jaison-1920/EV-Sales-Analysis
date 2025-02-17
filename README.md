@@ -49,7 +49,7 @@
 
 | Makers Analysis | States Analysis |
 | --------------- | --------------- |
-| ![Makers](https://github.com/jaison-1920/Business-Insights-360/blob/main/Finance.png) | ![States](https://github.com/jaison-1920/Business-Insights-360/blob/main/Sales.png) |
+| ![Makers](https://github.com/jaison-1920/EV-Sales-Analysis/blob/main/Maker.png) | ![States](https://github.com/jaison-1920/EV-Sales-Analysis/blob/main/State.png) |
 
 ---
 
